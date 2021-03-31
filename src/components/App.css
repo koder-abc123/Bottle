@@ -1,0 +1,8 @@
+/* Styles go here */
+
+.clipboard-text{
+    height:0px;
+    width:0px;
+    left: -10px;
+    position: absolute;
+}
