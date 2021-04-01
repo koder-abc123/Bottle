@@ -34,6 +34,7 @@ class Main extends Component {
           <tbody id="productList">
             {this.props.products.map((product, key) => {
               console.log(product.fleekUrl);
+             
               return (
                 <div>
                   <div>
