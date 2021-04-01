@@ -8,7 +8,7 @@ Bottle allows you to interact with the Matic network and Fleek Storage acting as
 
 ## Latest updates
 
-Checkout the live link below.Adding supporting docs in sometime.
+Checkout the live link below.Added supporting docs.
 
 ## How does it work
 
