@@ -8,12 +8,12 @@ Bottle allows you to interact with the Matic network and Fleek Storage acting as
 
 ## How does it work
 
-Bottle has been designed to work on the users behalf wherein each Telegram user uses their bottle bot to interact with the network ie each bottle bot would serve only one user(through user authentication).The user is required to setup Bottle with their wallet/fleek storage credentials.Once setup, user can access Web3 sites without needing a browser extension with Bottle handling Web3 transactions on their behalf.
+Bottle has been designed to work on the user's behalf wherein each Telegram user chats with their bottle bot to interact with the network ie each bottle bot would serve only one user(through user authentication).The user is required to setup Bottle with their wallet/fleek storage credentials.Once setup, user can access Web3 sites without needing a browser extension with Bottle handling Web3 transactions on their behalf.
 
 The Telegram user can spawn and interact with Bottle in his/her own home computer/raspberry pi within their private LANs with zero open ports.This ensures better security for the user's wallet credentials compared to a browser extension workflow.
 
 ## Current Implementation
-In this repo, Bottle has been made to work on a marketplace setup where it handles the buying and selling of products on the user's behalf.A typical workflow would include
+In this repo, Bottle has been made to work on a marketplace setup where it handles the buying and selling of products on the user's behalf.A typical workflow is found below:
 
 Seller would say
 ```
