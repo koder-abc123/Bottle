@@ -30,6 +30,7 @@ Bottle would figure out(still to be implemented) the contracts to interact with 
 ## WIP
 - User authentication
 - Robust message handling 
+- Docker container for easy deployment
 
 ## How to run
 

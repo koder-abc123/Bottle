@@ -74,7 +74,7 @@ class Main extends Component {
         {
               this.state.copySuccess ?
               <div style={{"color": "green"}}>
-                Success!
+                Copied to Clipboard!
               </div> : null
         }
         <p><a href="https://explorer-mumbai.maticvigil.com/tx/0xec9b4b0aa6c03ce11a1f8d5a6189cd46efe87a1755a8fdc9deec2a65a5bd1b70/logs" target="_blank">Contract information</a></p>
