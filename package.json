@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A telegram bot that works with Matic network and fleek storage",
   "author": "koder_abc123@protonmail.com",
-  "homepage": "https://koder-abc123.github.io/matic-marketplace/",
+  "homepage": "https://koder-abc123.github.io/Bottle",
   "license": "MIT",
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.2.3",
