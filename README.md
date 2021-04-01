@@ -65,7 +65,33 @@ npm run start
 
 [Bottle-Demo](https://koder-abc123.github.io/Bottle/)
 
-WIP: Instructions to work with this link
+Instructions: Inorder to interact with this link one must have the following: 
+
+- An Ethereum Address with non-zero Matic on testnet. Get test Matic from [here](https://faucet.matic.network/)
+- A Telegram Bot Token. This [link](https://www.youtube.com/watch?v=aNmRNjME6mE) was helpful 
+- A Fleek Api Key / Secret. You can open a free fleek account [here](https://fleek.co/) and use this [link](https://docs.fleek.co/storage/fleek-storage-js/) to generate the keys.
+- Once you have the above,export them as env variables based on your OS platform run the following shell commands to start your bot:
+```
+> git clone https://github.com/koder-abc123/Bottle.git
+> cd Bottle
+> node bottle.js
+```
+- This should start your bot(pls dont the mind the stupid debug messages, this is very much in alpha mode)
+- Open telegram, search for your bot and type in(note the single space between the name and price)
+```
+/sell <some compact spaceless product name> <price eg .01,.15>
+```
+- This should trigger the bottle bot to list your product on the live link.
+- if your are interested in buying a product ,you can create a new ethereum address, add test tokens, spawn another bot with the new keys , click on the 'Buy' button which should copy the fleek url to your clipboard and then type in 
+```
+/buy <fleek_url>
+```
+
+- If it goes well, your bottle bot will reply in the affirmative.(Yes I know its a little tedious process, but the the pros far out weigh this one time setup requirement)
+
+
+## Support
+PRs are welcome. @koder_abc123 is my discord handle
 
 ## Acknowlegdements
 
