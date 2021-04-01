@@ -6,6 +6,10 @@
 
 Bottle allows you to interact with the Matic network and Fleek Storage acting as a personal wallet manager of sorts.
 
+## Latest updates
+
+Checkout the live link below.Adding supporting docs in sometime.
+
 ## How does it work
 
 Bottle has been designed to work on the user's behalf wherein each Telegram user chats with their bottle bot to interact with the network ie each bottle bot would serve only one user(through user authentication).The user is required to setup Bottle with their wallet/fleek storage credentials.Once setup, user can access Web3 sites without needing a browser extension with Bottle handling Web3 transactions on their behalf.
@@ -60,6 +64,8 @@ npm run start
 ## Live link on Mumbai testnet
 
 [Bottle-Demo](https://koder-abc123.github.io/Bottle/)
+
+WIP: Instructions to work with this link
 
 ## Acknowlegdements
 
