@@ -1,4 +1,4 @@
-<h1 align="left">bottle</h1>
+<h1 align="left">&lt;Bottle&gt;</h1>
 
 <p align="center"><b>A telegram bot that works with Matic network and Fleek storage</b></p>
 
@@ -8,7 +8,7 @@ Bottle allows you to interact with the Matic network and Fleek Storage acting as
 
 ## Latest updates
 
-Checkout the live link below.Added supporting docs.
+Checkout the live link below.Added supporting docs.Also,updated demo video.
 
 ## How does it work
 
@@ -59,7 +59,7 @@ npm run start
 ```
 ## Demo
 
- [Demo link](https://www.youtube.com/watch?v=6aw6AURfBQI).
+ [Demo link](https://www.youtube.com/watch?v=3dtVqwtldSE).
 
 ## Live link on Mumbai testnet
 
