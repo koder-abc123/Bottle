@@ -1,4 +1,4 @@
-<h1 align="left">&lt;Bottle&gt;</h1>
+<h1 align="center">&lt;Bottle&gt;</h1>
 
 <p align="center"><b>A telegram bot that works with Matic network and Fleek storage</b></p>
 
